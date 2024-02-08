@@ -1,0 +1,55 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+
+p{
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.red{
+    background-color: red;
+    display: block;
+}
+
+.green{
+    background-color: green;
+    display: block;
+}
+
+.blue{
+    background-color: blue;
+    display: block; */
+/* } */
+
+ *{
+   padding: 0;
+   margin: 0;
+}
+
+p{
+  width: 200px;
+  height: 200px;
+  /* padding: 50px; */
+  margin: 50px;
+}
+
+  .red{
+    background-color: red;
+    display: block;
+  }
+
+
+.green{ 
+    background-color: green;
+    display: inline;
+} 
+
+
+.blue{
+    background-color:blue;
+    display: inline-block;
+}
